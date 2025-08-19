@@ -1,8 +1,8 @@
 # AluraStore
 Desafio de Alura Latam
 # Análisis Integral de Ingresos y Costos de Envío por Tienda
-
-![Análisis de tiendas](assets/tiendas-analisis.png)
+Archivo: Challenge Alura Store.ipynb
+![Análisis de tiendas]
 
 Este proyecto proporciona un conjunto de herramientas para analizar y comparar los ingresos y costos promedio de envío de múltiples tiendas. El objetivo es evaluar la rentabilidad neta de cada tienda, facilitando la identificación de oportunidades de mejora y la toma de decisiones informadas.
 
